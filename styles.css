@@ -178,3 +178,17 @@
         .play-pause:hover {
             transform: scale(1.1);
         }
+
+footer{
+            border: 1px solid #ccc ;
+            display: flex;
+            justify-content: safe;
+            padding: 5px;
+            border-radius: 5px;
+            width: fit-content;
+            margin-top: 50px;
+        }
+
+        footer a{
+            color: #ccc;
+        }
